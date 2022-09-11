@@ -21,7 +21,7 @@ huh- 👋 Hi, I’m @sigdelsujan.
 </a>
 <!-- illustrator  -->
  <a href="https://www.illustrator.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" alt="illustrator" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator.svg" alt="illustrator" width="40" height="40"/>
 </a> 
 <!-- photoshop  -->
  <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer">
