@@ -1,6 +1,6 @@
 huh- 👋 Hi, I’m @sigdelsujan.
 - 👀 I’m interested in Exploring and Trying New things.
-- 🌱 I’m currently learning Python and Web Development.
+- 🌱 I’m currently learning Machine Learning.
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
